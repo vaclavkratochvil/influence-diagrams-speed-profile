@@ -169,7 +169,7 @@ The track is discretized at intervals of x meters, and x is included in the file
 ```{r load track}
 # Load Silverstone circuit parameters
 trackDiskr = 5  # track discretization in meters
-track = as.matrix(read.csv(paste("../F1Track", trackDiskr, "m.csv", sep = ""), sep = ";", dec = ","))
+track = as.matrix(read.csv(paste("F1Track", trackDiskr, "m.csv", sep = ""), sep = ";", dec = ","))
 ```
 
 ## Set Up Discretization
