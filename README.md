@@ -6,3 +6,5 @@ This supplementary material provides detailed implementation steps for the influ
 * *Kratochvíl Václav, Vomlel Jiří*:  **Influence Diagrams for Speed Profile Optimization**, *International Journal of Approximate Reasoning*, Vol. 88, 1 (2017), pp. 567-586. [DOI: 10.1016/j.ijar.2016.11.018](https://doi.org/10.1016/j.ijar.2016.11.018)
 
 **This implementation closely follows the first paper, where each part of the influence diagram contains two cliques.**
+
+To explore this implementation, please download the project to your RStudio and open it. All the source code is written in R and is fully commented and explained in the **computations.Rmd** file. The results of the calculations can be found in the **computations.html** file.
