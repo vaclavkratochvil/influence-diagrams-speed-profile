@@ -8,4 +8,4 @@ This supplementary material provides detailed implementation steps for the influ
 **This implementation closely follows the first paper, where each part of the influence diagram contains two cliques.**
 
 To explore this implementation, please download the project to your RStudio and open it. All the source code is written in R and is fully commented and explained in the **calculations.Rmd** file (to be opened in RStudio). The results of the calculations can be found in the generated 
-website [https://vaclavkratochvil.github.io/influence-diagrams-speed-profile/](https://vaclavkratochvil.github.io/influence-diagrams-speed-profile/)
+website [https://vaclavkratochvil.github.io/influence-diagrams-speed-profile/](https://vaclavkratochvil.github.io/influence-diagrams-speed-profile/) (to be found in **/docs/** folder)
